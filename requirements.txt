@@ -1,0 +1,12 @@
+Django==3.0.7
+django-cors-headers==3.4.0
+django-extensions==2.2.9
+djangorestframework==3.11.0
+drf-yasg==1.17.1
+ipython==7.15.0
+ipython-genutils==0.2.0
+requests==2.23.0
+djongo
+django-allauth
+djangorestframework-jwt
+django-rest-framework
